@@ -67,7 +67,7 @@ and run it locally. You can also use a running example
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("ajpelu/diveRpine")
+devtools::install_github("javimarlop/diveRpine")
 ```
 
 3.  Run the app:
